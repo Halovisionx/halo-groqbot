@@ -1,0 +1,1 @@
+# Bu dosya, uygulamanın bileşenlerini içeren bir paket olarak işlev görür. İçinde, uygulamanın farklı bileşenlerini tanımlayan fonksiyonlar veya sınıflar bulunabilir.
